@@ -25,4 +25,6 @@
         android:id="@+id/xRecyclerView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"></com.jcodecraeer.xrecyclerview.XRecyclerView>
+
+
 </LinearLayout>
