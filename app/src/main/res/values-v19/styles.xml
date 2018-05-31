@@ -1,0 +1,9 @@
+<resources>
+
+	<!-- 在API19以后的Theme主题获取使用下面的主题 ,,,可以实现沉浸式-->
+	<style name="SelfTheme" parent="Theme.AppCompat.Light.NoActionBar">
+	    <!-- android:windowTranslucentStatus:设置状态栏透明 -->
+	    <item name="android:windowTranslucentStatus">true</item>
+	</style>
+
+</resources>
